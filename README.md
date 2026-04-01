@@ -37,10 +37,10 @@ The current deployment status is as follows:
 
 ### Contract Addresses
 
-- **Proxy Contract (Primary User-Facing Contract):**  
+- **Proxy Contract (Primary User-Facing Contract):**          
   [0xb764383a8A0502c1CF6d58c9de3bA7e5AACdeeA3](https://bscscan.com/token/0xb764383a8A0502c1CF6d58c9de3bA7e5AACdeeA3)
 
-- **Implementation Contract (Underlying Logic Contract):**
+- **Implementation Contract (Underlying Logic Contract):**         
   [0x9D596814CcA04A083a470014eacF7eDC2aA531e2](https://bscscan.com/token/0x9D596814CcA04A083a470014eacF7eDC2aA531e2#code)
 
 ### Deployment Structure
@@ -1239,7 +1239,7 @@ The system, as documented here, is designed to support:
 
 For formal inquiries regarding dZWG, repository documentation, or institutional review:
 
-**Abba Payments (Namibia) (Pty) Ltd**
+**Abba Payments (Namibia) (Pty) Ltd**, a wholly-owned subsidiary of [Abba Industries](https://abbaii.com/)
 
 For security-related reporting, use the official security channel identified in [SECURITY.md](SECURITY.md).
 
